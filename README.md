@@ -18,6 +18,7 @@ pip install -r requirements.txt
 ## DeepLabCut
 
 DeepLabCut video inference comparison showing pose estimation results on a macaque. The original video (left) is compared with RTMPose (centre) and HRNet (right), with predicted keypoints and bounding boxes overlaid on each frame.
-<video width="700" controls>
-  <source src="./videos/monkeys_compare.mp4" type="video/mp4">
-</video>
+<a href="./videos/monkeys_compare.mp4">
+  <img src="./images/monkeys_compare_first_frame.jpg" width="700">
+</a>
+
